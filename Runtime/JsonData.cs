@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 
 
-namespace BobboNet.JSONData
+namespace BobboNet
 {
 
     public class JsonData<Generic> where Generic : new()
